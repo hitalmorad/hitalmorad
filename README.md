@@ -67,4 +67,4 @@
   </a>
 </div>
 
-⭐️ From [Shamik](https://github.com/hitalmorad)
+⭐️ From [Hital](https://github.com/hitalmorad)
