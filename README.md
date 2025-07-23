@@ -1,9 +1,9 @@
 <h1 align="center"> Hola 👋🏽, I'm Hital </h1>
 
 <div>
-  🎓 3rd-Year CSE Undergraduate at Institute of Technology, Nirma University.<br>
+  🎓 4rd-Year CSE Undergraduate at Institute of Technology, Nirma University.<br>
   🖥️ Passionate Competitive Programmer, adept at solving complex problems.<br>
-  📱 Experienced in Android Development and Machine Learning.<br>
+  📱 Experienced in Android Development, Machine Learning and Backend in SpringBoot.<br>
   
   ⚽ Judo player — love playing and watching in my free time.<br>
 </div>
