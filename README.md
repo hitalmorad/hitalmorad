@@ -25,18 +25,17 @@
 </div>
 
 ---
+<h2 align="center">🚀 Project Repositories</h2>
 
-<h2 align="center"> 🚀 Project Repositories </h2>
-
-<div align="center">
-  <a href="https://github.com/hitalmorad/health" title="health">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hitalmorad&repo=health&theme=merko&cache_seconds=1" alt="Health Repo">
+<p align="center">
+  <a href="https://github.com/hitalmorad/health">
+    <img height="115" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hitalmorad&repo=health&theme=merko" />
   </a>
-  <span style="margin: 20px;"></span> <!-- Add space -->
-  <a href="https://github.com/hitalmorad/llm_finetune" title="llm for Geo-spatial">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hitalmorad&repo=llm_finetune&theme=tokyonight&cache_seconds=1" alt="Health Repo">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/hitalmorad/llm_finetune">
+    <img height="115" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hitalmorad&repo=llm_finetune&theme=tokyonight" />
   </a>
-</div>
+</p>
 
 ---
 
